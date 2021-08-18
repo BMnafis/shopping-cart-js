@@ -11,7 +11,7 @@ if(isIncrease == true){
 }
 inputValue.value = inputNumber;
 
-//  Product toal calculate
+//  Product total calculate
 const productPrice = document.getElementById(product+'-total');
 
 const productTotalPrice = inputNumber * price;
